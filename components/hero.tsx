@@ -51,7 +51,7 @@ export function Hero() {
                 </a>
               </Button>
               <Button size="lg" variant="outline" asChild>
-                <a href="#" download>
+                <a href="/Jihene_Farhani.pdf" download>
                   <Download className="mr-2 h-5 w-5" />
                   Download CV
                 </a>
@@ -60,7 +60,7 @@ export function Hero() {
 
             <div className="flex items-center gap-4">
               <a
-                href="https://github.com/jihens"
+                href="https://github.com/jihenefarhani"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center hover:bg-primary transition-colors"
@@ -68,7 +68,7 @@ export function Hero() {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://linkedin.com/in/jihenne-farhani/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-12 h-12 rounded-full bg-secondary flex items-center justify-center hover:bg-primary transition-colors"
